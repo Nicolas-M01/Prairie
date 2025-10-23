@@ -1,5 +1,6 @@
 # Prairie.ps1
 
+````pwsh
 # 1) Vérifiez à l'aide d'un langage de script si vous avez les KB5049622, KB5049625 et Un KB présent de votre choix présent sur votre OS Windows. Le script devra afficher en Vert les KB présents et en rouge les KB absents.
 
 
@@ -115,3 +116,6 @@ Get-AuthenticodeSignature -FilePath "C:\Users\maert\Documents\prairie.ps1"
 # 4wvsAnTqpGhZb4dfans8WDIa0RE5WRHL/k0ExOp0Kd75NG3U2zny4XYT2JYQX+C/
 # IfL8yjkO2dgBpgPyqZyNqg==
 # SIG # End signature block
+
+
+```pwsh
