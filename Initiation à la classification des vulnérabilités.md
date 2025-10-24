@@ -99,17 +99,31 @@ EPSS: 94.36%
 
 ## Looney-tunables
 
-* Donnez la référence CVE
+* **Donnez la référence CVE**  
+  
+CVE-2023-4911  
 
-* Décrire la vulnérabilité en une phrase
+* **Décrire la vulnérabilité en une phrase**  
+  
+La bibliothèque C du projet GNU est affectée par une faille de sécurité baptisée "Looney Tunables" ! En l'exploitant, un attaquant en local peut élever ses privilèges afin d'obtenir les droits "root" sur la machine Linux ! Voici ce qu'il faut savoir.  
 
-* Citez des éléments d'infrastructure pouvant être concernés
+* **Citez des éléments d'infrastructure pouvant être concernés**  
+  
+Elle affecte les distributions les plus populaires : Debian, Ubuntu, Fedora, Red Hat Enterprise Linux : Fedora 37 et 38, Ubuntu 22.04 et 23.04, et Debian 12 et 13  
 
-* Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)
+* **Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)**  
+  
+CVSS stands for Common Vulnerability Scoring System: 7.8/10  
 
-* Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.
+* **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**
 
-* Trouver si un score EPSS existe pour cette vuln
+A priori aucun.  
+
+* **Trouver si un score EPSS existe pour cette vuln**
+  
+EPSS : 78.36%   
+
+
 
 ---
 
