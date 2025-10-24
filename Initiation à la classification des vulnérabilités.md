@@ -66,23 +66,38 @@ EPSS : 0.77% : Peu de chance
 
 ---
 
-### log4shell
+## log4shell
 
-* Donnez la référence CVE
+* **Donnez la référence CVE**  
+CVE-2021-44228 (CVE-2021-45046 et CVE-2021-45105) 
 
-* Décrire la vulnérabilité en une phrase
+* **Décrire la vulnérabilité en une phrase**  
 
-* Citez des éléments d'infrastructure pouvant être concernés
+Vulnérabilité d’exécution de code à distance (RCE, remote code execution) qui permet à des acteurs malveillants d’exécuter un code Java arbitraire, en prenant le contrôle d’un serveur cible.  
 
-* Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)
+* **Citez des éléments d'infrastructure pouvant être concernés**  
 
-* Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.
+Tout appareil connecté à Internet exécutant Apache Log4j versions 2.0 à 2.14.1. Les versions concernées sont incluses dans Apache Struts, Apache Solr, Apache Druid, Elasticsearch, Apache Dubbo et VMware vCenter.  
 
-* Trouver si un score EPSS existe pour cette vuln
+
+* **Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)**  
+  
+CVSS Score 3.1 : 10/10  
+
+* **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**  
+
+AD Manager Plus 7122 - Remote Code Execution (RCE)  
+Apache Log4j2 2.14.1 - Information Disclosure  
+Apache Log4j 2 - Remote Code Execution (RCE)  
+
+* **Trouver si un score EPSS existe pour cette vuln**  
+  
+EPSS: 94.36%  
+
 
 ---
 
-### Looney-tunables
+## Looney-tunables
 
 * Donnez la référence CVE
 
