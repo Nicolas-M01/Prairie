@@ -25,7 +25,7 @@ Score de 0 à 1 (ou 0 % à 100 %), calculé à partir de données réelles d’e
 
 </details>
 
-## Eternal Blue
+## 🔷 Eternal Blue
 
 * **Donnez la référence CVE**  
 
@@ -59,7 +59,7 @@ Oui, un score EPSS existe : autour de 0,94318 (soit ~94,3 %) : forte probabilté
 
 ---
 
-## Krack
+## 🔷 Krack
 
 * **Donnez la référence CVE**
 
@@ -88,7 +88,7 @@ EPSS : 0.77% : Peu de chance
 
 ---
 
-## log4shell
+## 🔷 log4shell
 
 * **Donnez la référence CVE**  
 CVE-2021-44228 (CVE-2021-45046 et CVE-2021-45105) 
@@ -116,10 +116,9 @@ Apache Log4j 2 - Remote Code Execution (RCE)
   
 EPSS: 94.36%  
 
-
 ---
 
-## Looney-tunables
+## 🔷 Looney-tunables
 
 * **Donnez la référence CVE**  
   
@@ -145,23 +144,21 @@ A priori aucun.
   
 EPSS : 78.36%   
 
-
-
 ---
 
 
-### Une vulnérabilité récente de votre choix issue du site du CERT-Fr
+## 🔷 Une vulnérabilité récente de votre choix issue du site du CERT-Fr
 
-* Donnez la référence CVE
+* **Donnez la référence CVE**
 
-* Décrire la vulnérabilité en une phrase
+* **Décrire la vulnérabilité en une phrase**
 
-* Citez des éléments d'infrastructure pouvant être concernés
+* **Citez des éléments d'infrastructure pouvant être concernés**
 
-* Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)
+* **Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)**
 
-* Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.
+* **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**
 
-* Trouver si un score EPSS existe pour cette vuln
+* **Trouver si un score EPSS existe pour cette vuln**
 
 ---
