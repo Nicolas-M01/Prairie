@@ -3,7 +3,7 @@
 ---
 
 <details>
-  <summary><h2>Définition de CVE, CVSS et EPSS</h2></summary>  
+  <summary><h2>💡 Définition de CVE, CVSS et EPSS</h2></summary>  
   
 🧩 **CVE – Common Vulnerabilities and Exposures**
 
