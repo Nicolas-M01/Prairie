@@ -80,7 +80,7 @@ CVSS score 3.0 : 6.8/10
 
 * **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**
 
-Aucun Exploit n'est disponible
+[https://github.com/omaidf/KRACK-toolkit](https://github.com/omaidf/KRACK-toolkit)
 
 * **Trouver si un score EPSS existe pour cette vuln**
 
@@ -138,7 +138,8 @@ CVSS version 3.1: 7.8/10
 
 * **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**
 
-A priori aucun.  
+[https://github.com/hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911)
+
 
 * **Trouver si un score EPSS existe pour cette vuln**
   
