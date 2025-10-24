@@ -148,7 +148,7 @@ EPSS : 78.36%
 ---
 
 
-## 🔷 Une vulnérabilité récente de votre choix issue du site du CERT-Fr
+## 🔷 Une vulnérabilité récente de votre choix issue du site du CERT-Fr : *Multiples vulnérabilités dans Microsoft SharePoint*
 
 * **Donnez la référence CVE**  
 
