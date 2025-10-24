@@ -113,7 +113,7 @@ Elle affecte les distributions les plus populaires : Debian, Ubuntu, Fedora, Red
 
 * **Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)**  
   
-CVSS stands for Common Vulnerability Scoring System: 7.8/10  
+CVSS version 3.1: 7.8/10  
 
 * **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**
 
