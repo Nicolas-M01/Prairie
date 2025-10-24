@@ -32,7 +32,7 @@ Microsoft Windows 8/8.1/2012 R2 (x64) - 'EternalBlue' SMB Remote Code Execution 
 
 * **Trouver si un score EPSS existe pour cette vuln**  
 
-Oui, un score EPSS existe : autour de 0,94318 (soit ~94,3 %)
+Oui, un score EPSS existe : autour de 0,94318 (soit ~94,3 %) : forte probabilté d'exploitation  
 
 
 ---
