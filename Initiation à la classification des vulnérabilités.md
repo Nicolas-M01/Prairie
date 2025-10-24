@@ -2,6 +2,28 @@
 # Initiation à la classification des vulnérabilités
 ---
 
+<details>
+  <summary><h2>Définition de CVE, CVSS et EPSS</h2></summary>  
+  
+🧩 **CVE – Common Vulnerabilities and Exposures**
+
+Identifiant unique attribué à une faille de sécurité connue.  
+Chaque CVE correspond à une vulnérabilité précise, répertoriée publiquement (ex. : CVE-2017-0144).  
+→ But : permettre de parler de la même faille partout dans le monde.
+
+⚙️ **CVSS – Common Vulnerability Scoring System**
+
+Système de notation standardisé qui évalue la gravité technique d’une vulnérabilité.  
+Score de 0 à 10, basé sur la facilité d’exploitation et l’impact (confidentialité, intégrité, disponibilité).  
+→ But : mesurer à quel point une faille est dangereuse.  
+
+📈 **EPSS – Exploit Prediction Scoring System**
+
+Indicateur de probabilité qu’une vulnérabilité soit exploitée dans la nature.  
+Score de 0 à 1 (ou 0 % à 100 %), calculé à partir de données réelles d’exploitation et de modèles statistiques.  
+→ But : estimer le risque qu’une faille soit effectivement attaquée.  
+
+</details>
 
 ## Eternal Blue
 
