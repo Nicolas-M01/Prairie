@@ -150,16 +150,33 @@ EPSS : 78.36%
 
 ## 🔷 Une vulnérabilité récente de votre choix issue du site du CERT-Fr
 
-* **Donnez la référence CVE**
+* **Donnez la référence CVE**  
 
-* **Décrire la vulnérabilité en une phrase**
+CVE-2025-53771 (CVE-2025-53770)
 
-* **Citez des éléments d'infrastructure pouvant être concernés**
+* **Décrire la vulnérabilité en une phrase**  
+
+Affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et SharePoint Server Subscription Edition. L'éditeur indique que la vulnérabilité CVE-2025-53770 permet à un attaquant de provoquer une désérialisation de données non fiables entrainant une exécution de code arbitraire à distance. L'éditeur indique que la vulnérabilité CVE-2025-53771 permet à un attaquant de provoquer une usurpation d'identité sur un réseau
+
+* **Citez des éléments d'infrastructure pouvant être concernés**  
+
+Microsoft SharePoint Enterprise Server 2010 toutes versions
+Microsoft SharePoint Enterprise Server 2013 toutes versions
+Microsoft SharePoint Enterprise Server 2016 versions antérieures à 16.0.5513.1001
+Microsoft SharePoint Server 2019 versions antérieures à 16.0.10417.20037
+Microsoft SharePoint Server Subscription Edition versions antérieures à 16.0.18526.20508
+
 
 * **Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)**
 
+CVSS Score 3.1: 6.5/10  
+
 * **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**
 
-* **Trouver si un score EPSS existe pour cette vuln**
+Microsoft SharePoint Server 2019 (16.0.10383.20020) - Remote Code Execution (RCE)
+
+* **Trouver si un score EPSS existe pour cette vuln**  
+
+EPSS: 35.39%  
 
 ---
