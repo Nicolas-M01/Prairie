@@ -3,7 +3,7 @@
 ---
 
 
-### Eternal Blue
+## Eternal Blue
 
 * **Donnez la référence CVE**  
 
@@ -37,19 +37,32 @@ Oui, un score EPSS existe : autour de 0,94318 (soit ~94,3 %) : forte probabilté
 
 ---
 
-### Krack
+## Krack
 
-* Donnez la référence CVE
+* **Donnez la référence CVE**
 
-* Décrire la vulnérabilité en une phrase
+CVE-2017-13077 (CVE-2017-13077,CVE-2017-13078,CVE-2017-13079,CVE-2017-13080,CVE-2017-13081,CVE-2017-13082,CVE-2017-13084, CVE-2017-13086,CVE-2017-13087,CVE-2017-13088)
 
-* Citez des éléments d'infrastructure pouvant être concernés
+* **Décrire la vulnérabilité en une phrase**
 
-* Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)
+KRACK est l'acronyme de Key Reinstallation Attack (attaque de réinstallation de clé). L'attaque KRACK est une attaque par rejeu sévère sur le protocole d'accès protégé Wi-Fi (WPA2) qui sécurise vos connexions sans fil.
+Les attaquants qui utilisent l'attaque KRACK peuvent accéder aux noms d'utilisateur, aux mots de passe et aux données stockées sur les appareils. Les pirates peuvent lire les emails et voir des photos des données transmises, puis utiliser ces informations pour faire du chantage aux utilisateurs ou les vendre sur le Dark Web.  
 
-* Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.
+* **Citez des éléments d'infrastructure pouvant être concernés**
 
-* Trouver si un score EPSS existe pour cette vuln
+Tous les appareils connectés en WiFi.  
+
+* **Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)**
+
+CVSS score 3.0 : 6.8/10  
+
+* **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**
+
+Aucun Exploit n'est disponible
+
+* **Trouver si un score EPSS existe pour cette vuln**
+
+EPSS : 0.77% : Peu de chance
 
 ---
 
