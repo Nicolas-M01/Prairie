@@ -169,14 +169,14 @@ Microsoft SharePoint Server Subscription Edition versions antérieures à 16.0.1
 
 * **Trouvez, mettez à jour ou calculez le score base CVSS (dernière version)**  
 
-CVSS Score 3.1: 6.5/10  
+CVSS Score 3.1: 9.8/10  
 
 * **Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.**  
 
-Microsoft SharePoint Server 2019 (16.0.10383.20020) - Remote Code Execution (RCE)  
+Microsoft SharePoint Server 2019 (16.0.10383.20020) - Remote Code Execution (RCE) (CVE-2025-53770)  
 
 * **Trouver si un score EPSS existe pour cette vuln**  
 
-EPSS: 35.39%  
+EPSS: 86.34%  
 
 ---
